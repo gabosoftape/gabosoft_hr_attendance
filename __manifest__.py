@@ -4,7 +4,6 @@
 
 {
     'name': 'Acopio',
-    'author': 'Gabosoft'
     'version': '5.0',
     'category': 'Human Resources',
     'sequence': 90,
