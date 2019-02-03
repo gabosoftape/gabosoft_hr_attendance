@@ -5,6 +5,7 @@
 {
     'name': 'Gestion de Pagos',
     'version': '1.0',
+    'author' : 'Gabosoft'
     'category': 'Human Resources',
     'sequence': 01,
     'summary': 'Manage employee attendances',
