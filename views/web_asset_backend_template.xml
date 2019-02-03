@@ -11,7 +11,7 @@
         </xpath>
     </template>
 
-    <template id="qunit_suite" name="hr attendance tests" inherit_id="web.qunit_suite">
+    <template id="qunit_suite" name="gabosoft_hr attendance tests" inherit_id="web.qunit_suite">
         <xpath expr="//script[contains(@src, '/web/static/tests/views/kanban_tests.js')]" position="after">
             <script type="text/javascript" src="/gabosoft_hr_attendance/static/tests/hr_attendance_tests.js"></script>
         </xpath>
