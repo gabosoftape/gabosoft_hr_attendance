@@ -3,11 +3,10 @@
 
 
 {
-    'name': 'Gestion de Pagos',
-    'version': '1.0',
-    'author' : 'Gabosoft'
+    'name': 'Attendances',
+    'version': '2.0',
     'category': 'Human Resources',
-    'sequence': 01,
+    'sequence': 81,
     'summary': 'Manage employee attendances',
     'description': """
 This module aims to manage employee's attendances.
