@@ -3,10 +3,11 @@
 
 
 {
-    'name': 'Attendances',
-    'version': '2.0',
+    'name': 'Acopio',
+    'author': 'Gabosoft'
+    'version': '5.0',
     'category': 'Human Resources',
-    'sequence': 81,
+    'sequence': 90,
     'summary': 'Manage employee attendances',
     'description': """
 This module aims to manage employee's attendances.
