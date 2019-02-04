@@ -11,6 +11,7 @@
                 <field name="employee_id"/>
                 <field name="check_in"/>
                 <field name="check_out"/>
+                <field name="pagado"/>
             </tree>
         </field>
     </record>
@@ -23,6 +24,7 @@
                 <field name="employee_id"/>
                 <field name="check_in"/>
                 <field name="check_out"/>
+                <field name="pagado"/>
                 <templates>
                     <t t-name="kanban-box">
                         <div t-attf-class="oe_kanban_global_click">
@@ -55,6 +57,7 @@
                         <field name="employee_id"/>
                         <field name="check_in"/>
                         <field name="check_out"/>
+                        <field name="pagado"/>
                     </group>
                 </sheet>
             </form>
